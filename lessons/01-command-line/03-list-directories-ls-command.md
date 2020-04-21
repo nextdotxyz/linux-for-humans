@@ -27,7 +27,7 @@ drwxr-xr-x 2 nt-user nt-user 2 Apr 17 23:09 Templates
 drwxr-xr-x 2 nt-user nt-user 2 Apr 17 23:09 Videos
 ```
 
-Commands have things called flags (or arguments or options, whatever you want to call it) to add more functionality. See how we added -a and -l, well you can add them both together with -la. The order of the flags determines which order it goes in, most of the time this doesn’t really matter so you can also do ls -al and it would still work.
+Commands have things called flags (or arguments or options, whatever you want to call it) to add more functionality. See how we added `-a` and `-l`, well you can add them both together with `-la`. The order of the flags determines which order it goes in, most of the time this doesn’t really matter so you can also do `ls -al` and it would still work.
 
 ```bash
 $ ls -la

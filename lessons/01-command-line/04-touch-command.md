@@ -1,6 +1,8 @@
 Let’s learn how to make some files. A very simple way is to use the `touch` command. `touch` allows you to the create new empty files.
 
-<pre>$ touch mysuperduperfile</pre>
+```bash
+$ touch mysuperduperfile
+```
 
 And boom, new file! 
 
