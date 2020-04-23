@@ -1,4 +1,4 @@
-Used for moving files and also renaming them. Quite similar to the cp command in terms of flags and functionality. 
+Used for moving files and also renaming them. Quite similar to the `cp` command in terms of flags and functionality. 
 
 You can rename files like this:
 
@@ -9,13 +9,13 @@ $ mv oldfile newfile
 Or you can actually move a file to a different directory: 
 
 ```bash
-$ mv file2 /home/pete/Documents
+$ mv file1 Documents
 ```
 
 And move more than one file:
 
 ```bash
-$ mv file_1 file_2 /somedirectory
+$ mv file2 file3 somedirectory
 ```
 
 You can rename directories as well:
@@ -24,14 +24,14 @@ You can rename directories as well:
 $ mv directory1 directory2
 ```
 
-Like cp, if you mv a file or directory it will overwrite anything in the same directory. So you can use the `-i` flag to prompt you before overwriting anything.
+Like `cp`, if you `mv` a file or directory it will overwrite anything in the same directory. So you can use the `-i` flag to prompt you before overwriting anything.
 
 ```bash 
-$ mv -i directory1 directory2
+$ mv -i directory2 somedirectory
 ```
 
-Let’s say you did want to mv a file to overwrite the previous one. You can also make a backup of that file and it will just rename the old version with a `~`. 
+Let’s say you did want to `mv` a file to overwrite the previous one. You can also make a backup of that file and it will just rename the old version with a `~`. 
 
 ```bash
-$ mv -b directory1 directory2
+$ mv -b newfile Documents
 ```
