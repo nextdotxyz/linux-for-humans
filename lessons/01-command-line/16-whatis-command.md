@@ -4,4 +4,4 @@ Whew, we’ve learned quite a bit of commands so far, if you are ever feeling do
 $ whatis cat
 ```
 
-The description gets sourced from the manual page of each command. If you ran whatis cat, you’d see there is a small blurb with a short description. 
+The description gets sourced from the manual page of each command. If you run `whatis cat`, you’ll see there is a small blurb with a short description. 

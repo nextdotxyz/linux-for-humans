@@ -11,25 +11,25 @@ Fortunately there are some safety measures put into place, so the average joe ca
 Now if you don’t care about any of that, you can absolutely remove a bunch of files. 
 
 ```bash
-$ rm -f file1
+$ rm -f file2
 ```
 
-The `-f` or force option tells rm to remove all files, whether they are write protected or not, without prompting the user (as long as you have the appropriate permissions).
+The `-f` or force option tells `rm` to remove all files, whether they are write protected or not, without prompting the user (as long as you have the appropriate permissions).
 
 ```bash
-$ rm -i file
+$ rm -i file3
 ```
 
 Adding the `-i` flag like many of the other commands, will give you a prompt on whether you want to actually remove the files or directories. 
 
 ```bash
-$ rm -r directory
+$ rm -r directory1
 ```
 
 You can’t just `rm` a directory by default, you’ll need to add the `-r` flag (recursive) to remove all the files and any subdirectories it may have.
 
-You can remove a directory with the rmdir command.
+You can remove a directory with the `rmdir` command.
 
 ```bash
-$ rmdir directory
+$ rmdir directory2
 ```
