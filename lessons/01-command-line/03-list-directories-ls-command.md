@@ -1,4 +1,4 @@
-Now that we know how to move around the system, how do we figure out what is available to us? Right now it’s like we are moving around in the dark. Well, we can use the wonderful `ls` command to list directory contents.
+Now that we know how to move around the system, how do we figure out what is available to us? Right now, it’s like we are moving around in the dark. Well, we can use the `ls` command to list directory contents.
 
 The `ls` command will list directories and files in the current directory by default. However, you can specify which path you want to list the directories of:
 
@@ -6,8 +6,6 @@ The `ls` command will list directories and files in the current directory by def
 $ ls
 $ ls /home/nt-user
 ```
-
-`ls` also shows you detailed information about the files and directories you are looking at.
 
 Commands have things called flags (or arguments or options, whatever you want to call it) to add more functionality. For example, not all files in a directory will be visible using the `ls` command. Filenames that start with **.** are hidden. However, you can view them by passing the `-a` flag to it (`a` for "all"):
 
