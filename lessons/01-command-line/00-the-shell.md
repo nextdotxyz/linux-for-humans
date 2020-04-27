@@ -1,6 +1,6 @@
-The world is your oyster, or really the shell is your oyster. What is the shell? The shell is basically a program that takes your commands from the keyboard and sends them to the operating system to perform. If you’ve ever used a GUI, you’ve probably seen terms such as **Terminal** or **Console**. These are just programs that launch a shell for you. Throughout this course we will be learning about the wonders of the shell. 
+The world is your oyster, or really the shell is your oyster. What is the shell? The shell is basically a program that takes your commands from the keyboard and sends them to the operating system to perform. If you’ve ever used a GUI, you’ve probably seen terms such as **Terminal** or **Console**. These are just programs that launch a shell for you. Throughout this course, we will be learning about the wonders of the shell. 
 
-In this course we will use the shell program, **Bash** (**Bourne Again Shell**). Almost all Linux distributions will default to the bash shell. There are other shells available such as ksh, zsh, tsch, but we won’t get into any of those. 
+We will use the shell program, **Bash** (**Bourne Again Shell**). Almost all Linux distributions will default to the Bash shell. There are other shells available such as ksh, zsh, tsch, but we won’t get into any of those. 
 
 Let’s jump right in! Your shell prompt should adhere to the following format:
 
