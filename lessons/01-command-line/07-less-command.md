@@ -9,7 +9,7 @@ $ less text1
 Use the following command to navigate through `less`: 
 
 <ul>
-<li>`q` - Used to quit out of less and go back to your shell.</li>
+<li>`q` - Used to quit out of `less` and go back to your shell.</li>
 <li>`Page up`, `Page down`, `Up`, and `Down` - Navigate using the arrow keys and page keys.</li>
 <li>`g` - Moves to beginning of the text file.</li>
 <li>`G` - Moves to the end of the text file.</li>
