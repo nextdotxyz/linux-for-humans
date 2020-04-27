@@ -1,21 +1,19 @@
-In your shell, there is a `history` of the commands that you previously entered, you can actually look through these commands. This is quite useful when you want to find and run a command you used previously without actually typing it again.
+In your shell, there is a log of all the commands that you previously entered. Using the `history` command, you can look through this log. This is quite useful when you want to find and run a command you used previously without actually typing it again.
 
 ```bash
 $ history
 ```
 
-Want to run the same command you did before, just hit the up arrow. 
+If you want to run the same command you did before, just hit the *Up* arrow.
 
-Want to run the previous command without typing it again? Use *!!*. If you typed `cat file1` and want to run it again, you can actually just go *!!* and it will run the last command you ran. 
+If you want to run the previous command without typing it again, use `!!`.
 
-Another history shortcut is **ctrl-R**, this is the reverse search command, if you hit ctrl-R and you start typing parts of the command you want it will show you matches and you can just navigate through them by hitting the ctrl-R key again. Once you found the command you want to use again, just hit the Enter key.
+Another history shortcut is *Ctrl-R*. This is the reverse search command. If you hit *Ctrl-R* and you start typing parts of the command you want, it will show you matches and you can just navigate through them by hitting *Ctrl-R* again. Once you've found the command you want to use again, just hit the *Enter* key.
 
-Our terminal is getting a little cluttered no? Let’s do a little cleanup, use the `clear` command to clear up your display.
+If your terminal is getting a little cluttered, you can do a little cleanup using the `clear` command to clear up your display:
 
 ```bash
 $ clear
 ```
 
-There that looks better doesn’t it? 
-
-While we are talking about useful things, one of the most useful features in any command-line environment is tab completion. If you start typing the beginning of a command, file, directory, etc and hit the Tab key, it will autocomplete based on what it finds in the directory you are searching as long as you don’t have any other files that start with those letters. For example if you were trying to run the command chrome, you can type chr and press Tab and it will autocomplete chrome.
+One of the most useful features in any command-line environment is **tab completion**. If you start typing the beginning of a command, file, directory, etc and hit the *Tab* key, it will autocomplete based on what it finds in the directory you are searching, as long as you don't have any other files that start with those letters. For example if you were trying to run the command `chrome`, you can type `chr` and press *Tab* and it will autocomplete `chrome`.
