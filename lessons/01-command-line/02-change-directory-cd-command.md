@@ -20,7 +20,7 @@ $ cd Hawaii
 
 Notice how we just used the name of the folder? It’s because we were already in */home/nt-user/workspace/Pictures*.
 
-It can get pretty tiring navigating with absolute and relative paths all the time. Luckily, there are some shortcuts to help you out. 
+It can get pretty tiring navigating with absolute and relative paths all the time. Luckily, there are some shortcuts to help you out: 
 
 - `.`  (current directory): this is the directory you are currently in.
 - `..` (previous directory): takes you to the directory above your current.
