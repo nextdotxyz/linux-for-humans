@@ -1,4 +1,4 @@
-Well, you sure did a good job getting through the basics. For now, you can pat yourself on the back and take a break. To exit from the shell, you can use the `exit` command:
+You sure did a good job getting through the basics! For now, you can pat yourself on the back and take a break. To exit from the shell, you can use the `exit` command:
 
 ```bash
 $ exit
