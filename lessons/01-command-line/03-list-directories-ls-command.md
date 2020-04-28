@@ -1,3 +1,4 @@
+
 info> For this lesson, navigate to the **04-ls** directory.
 
 Now that we know how to move around the system, how do we figure out what is available to us? Right now, it’s like we are moving around in the dark. Well, we can use the `ls` command to list directory contents.
