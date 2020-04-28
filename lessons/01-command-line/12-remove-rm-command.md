@@ -1,3 +1,4 @@
+
 info> For this lesson, navigate to the **13-rm** directory.
 
 The `rm` ("remove") command is used to delete files and directories:

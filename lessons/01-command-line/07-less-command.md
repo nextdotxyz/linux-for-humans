@@ -1,3 +1,4 @@
+
 info> For this lesson, navigate to the **08-less** directory.
 
 If you are viewing text files larger than a simple output, `less` is more. The text is displayed in a paged manner, so you can navigate through a text file page by page. 
