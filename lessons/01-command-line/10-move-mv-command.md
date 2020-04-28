@@ -1,3 +1,5 @@
+info> For this lesson, navigate to the **11-mv** directory.
+
 The `mv` command is used for moving and renaming files. It is quite similar to the `cp` command in terms of flags and functionality. 
 
 You can rename files like this:

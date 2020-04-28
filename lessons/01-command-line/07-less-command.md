@@ -1,3 +1,5 @@
+info> For this lesson, navigate to the **08-less** directory.
+
 If you are viewing text files larger than a simple output, `less` is more. The text is displayed in a paged manner, so you can navigate through a text file page by page. 
 
 Go ahead and look at the contents of a file using the `less` command. Once you're in the `less` command, you can actually use other keyboard commands to navigate in the file:

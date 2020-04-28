@@ -1,3 +1,5 @@
+info> For this lesson, navigate to the **04-ls** directory.
+
 Now that we know how to move around the system, how do we figure out what is available to us? Right now, it’s like we are moving around in the dark. Well, we can use the `ls` command to list directory contents.
 
 The `ls` command will list directories and files in the current directory by default. However, you can specify which path you want to list the directories of:
@@ -16,7 +18,7 @@ $ ls -a
 There is also one more useful `ls` flag, `-l` for "long". This shows a detailed list of files in a long format. This will show you detailed information, starting from the left: file permissions, number of links, owner name, owner group, file size, timestamp of last modification, and file/directory name. 
 
 ```bash
-workspace $ ls -l
+04-ls $ ls -l
 total 4
 drwxr-xr-x 2 nt-user nt-user 2 Apr 17 23:08 Desktop
 drwxr-xr-x 2 nt-user nt-user 2 Apr 17 23:08 Documents

@@ -7,7 +7,7 @@ Now that you know where you are, let’s see if we can move around the filesyste
 Now that you know how paths work, we just need something to help us change to the directory we want. The command `cd` or **change directory** does just that. 
 
 ```bash
-$ cd /home/nt-user/workspace/Pictures
+$ cd /home/nt-user/workspace/03-cd/Pictures
 ```
 
 We've now changed our directory location to */home/nt-user/workspace/Pictures*.
