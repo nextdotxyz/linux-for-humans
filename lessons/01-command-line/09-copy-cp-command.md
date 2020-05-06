@@ -1,5 +1,5 @@
 
-info> For this lesson, navigate to the **10-cp** directory.
+info> For this lesson, navigate to the **cp-activity** directory.
 
 Much like copy and pasting files in other operating systems, the shell gives us a simple way of making copies of files:
 

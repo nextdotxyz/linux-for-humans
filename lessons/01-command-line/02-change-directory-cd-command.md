@@ -7,10 +7,10 @@ Now that you know where you are, let’s see if we can move around the filesyste
 Now that you know how paths work, we just need something to help us change to the directory we want. The command `cd` or **change directory** does just that. 
 
 ```bash
-$ cd /home/nt-user/workspace/03-cd/Pictures
+$ cd /home/nt-user/workspace/cd-activity/Pictures
 ```
 
-We've now changed our directory location to */home/nt-user/workspace/Pictures*.
+We've now changed our directory location to */home/nt-user/workspace/cd-activity/Pictures*.
 
 Now from this directory we have a folder inside called *Hawaii*, we can navigate to that folder with:
 
@@ -18,7 +18,7 @@ Now from this directory we have a folder inside called *Hawaii*, we can navigate
 $ cd Hawaii
 ```
 
-Notice how we just used the name of the folder? It’s because we were already in */home/nt-user/workspace/Pictures*.
+Notice how we just used the name of the folder? It’s because we were already in */home/nt-user/workspace/cd-activity/Pictures*.
 
 It can get pretty tiring navigating with absolute and relative paths all the time. Luckily, there are some shortcuts to help you out: 
 

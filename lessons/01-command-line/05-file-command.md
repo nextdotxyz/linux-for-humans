@@ -1,5 +1,5 @@
 
-info> For this lesson, navigate to the **06-file** directory.
+info> For this lesson, navigate to the **file-activity** directory.
 
 In the previous lesson we learned about `touch`. Did you notice that the filename didn’t conform to standard naming like you’ve probably seen with other operating systems like Windows? Normally, you would expect a file called *banana.jpeg* and expect a JPEG picture file. 
 
