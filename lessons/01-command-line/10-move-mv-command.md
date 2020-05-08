@@ -1,5 +1,5 @@
 
-info> For this lesson, navigate to the **mv-activity** directory.
+info> For this lesson, navigate to the **mv-activity** directory using the `cd` command.
 
 The `mv` command is used for moving and renaming files. It is quite similar to the `cp` command in terms of flags and functionality. 
 
