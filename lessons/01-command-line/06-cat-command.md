@@ -1,5 +1,5 @@
 
-info> For this lesson, navigate to the **cat-activity** directory.
+info> For this lesson, navigate to the **cat-activity** directory using the `cd` command.
 
 We're almost done navigating files, but first let's learn how to read a file. The `cat` command, short for concatenate, not only displays file contents but it can also combine multiple files and show you the output of them. 
 
