@@ -1,5 +1,5 @@
 
-info> For this lesson, navigate to the **rm-activity** directory.
+info> For this lesson, navigate to the **rm-activity** directory using the `cd` command.
 
 The `rm` ("remove") command is used to delete files and directories:
 
