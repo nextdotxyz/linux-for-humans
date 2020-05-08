@@ -15,3 +15,4 @@ Let’s start with a simple command, `echo`. The `echo` command just prints out 
 ```bash
 $ echo Hello World
 ```
+info> If you ever make a mistake and need cancel your last command, you can use *Ctrl + C*.
