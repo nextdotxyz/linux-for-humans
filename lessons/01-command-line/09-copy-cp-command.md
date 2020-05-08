@@ -1,5 +1,5 @@
 
-info> For this lesson, navigate to the **cp-activity** directory.
+info> For this lesson, navigate to the **cp-activity** directory using the `cd` command.
 
 Much like copy and pasting files in other operating systems, the shell gives us a simple way of making copies of files:
 
