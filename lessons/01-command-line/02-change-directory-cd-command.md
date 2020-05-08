@@ -24,7 +24,7 @@ It can get pretty tiring navigating with absolute and relative paths all the tim
 
 - `.`  (current directory): this is the directory you are currently in.
 - `..` (previous directory): takes you to the directory above your current.
-- `~`  (home directory): this directory defaults to your “home directory”. Such as */home/nt-user*.
+- `~`  (home directory): this directory defaults to your “home directory”. Such as */home/nt-user*, which will display as `~`.
 - `-`  (last directory): this will take you to the previous directory you were just in.
 
 ```bash
